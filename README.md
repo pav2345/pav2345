@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm pavankumarReddy</h1>
-<h3 align="center">I am final year student studying in and much passionate about the MERN stack</h3>
+<h3 align="center">I am final year student studying in and much passionate about the Full stack</h3>
 <img align="right" alt="coding"  width="400" src="https://www.bing.com/th/id/OGC.9d643f53934a11f35e1824df87fdbe33?pid=1.7&rurl=https%3a%2f%2fraw.githubusercontent.com%2fkvssankar%2fkvssankar%2fmain%2fprogrammer.gif&ehk=SPG39ITIsttewfu0e1QAcyrsJhrxseVTUl077r%2f6nv4%3d">
 
 - 📫 How to reach me **reddypavankumar709@gmail.com**
