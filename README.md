@@ -38,3 +38,27 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
+
+<h3>🧠 AI & Machine Learning:</h3>
+<ul>
+  <li>Python Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, TensorFlow, Keras, OpenCV</li>
+  <li>Tools: Jupyter Notebook</li>
+</ul>
+
+<h3>🗣️ NLP (Natural Language Processing):</h3>
+<ul>
+  <li>Sentiment Analysis</li>
+  <li>Text Classification</li>
+  <li>NLTK – Natural Language Toolkit</li>
+  <li>spaCy – Industrial-strength NLP</li>
+</ul>
+
+<h3>🔐 Key Concepts:</h3>
+<ul>
+  <li>JWT Authentication</li>
+  <li>Middleware</li>
+  <li>REST APIs</li>
+  <li>MVC Architecture</li>
+  <li>API Documentation</li>
+  <li>Deployment (Frontend & Backend)</li>
+</ul>
