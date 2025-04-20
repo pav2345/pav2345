@@ -41,8 +41,8 @@
 
 <h3>🧠 AI & Machine Learning:</h3>
 <ul>
-  <li>Python Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, TensorFlow, Keras, OpenCV</li>
-  <li>Tools: Jupyter Notebook</li>
+  <li>Python Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, TensorFlow, Keras, OpenCV,streamlit</li>
+  <li>Tools: Jupyter Notebook,Google-colab</li>
 </ul>
 
 <h3>🗣️ NLP (Natural Language Processing):</h3>
@@ -58,7 +58,6 @@
   <li>JWT Authentication</li>
   <li>Middleware</li>
   <li>REST APIs</li>
-  <li>MVC Architecture</li>
-  <li>API Documentation</li>
+  <li>OAuth</li>
   <li>Deployment (Frontend & Backend)</li>
 </ul>
