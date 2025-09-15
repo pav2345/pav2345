@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Pavankumar Reddy</h1>
+<h1 align="center">Hi 👋, I'm Pavanboyella</h1>
 <h3 align="center">
-  I am a final year student studying at Kalasalingam University,<br/>
+  I am Recently Graduate Looking for opporunities ,eagaer to learn , contribute and grow<br/>
   passionate about Full Stack Development and AI & ML.
 </h3>
 
@@ -26,7 +26,8 @@
 
   <!-- Backend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+
 
   <!-- Database -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
