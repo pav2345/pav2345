@@ -1,5 +1,5 @@
 # 💫 About Me:
-```md<br>🚀 I’m currently working on Full Stack and Backend Development projects using Next.js, FastAPI, Node.js, and Django.<br><br>🤝 I’m looking to collaborate on scalable web applications, AI-powered platforms, and innovative startup projects.<br><br>🧠 I’m currently learning System Design, AI Engineering, Cloud Technologies, and scalable backend architecture.<br><br>💬 Ask me about React, Next.js, FastAPI, REST APIs, JWT Authentication, MongoDB, PostgreSQL, and Full Stack Development.<br><br>⚡ Fun fact: I enjoy building real-world projects and continuously exploring new technologies to improve my development skills.<br>```<br>
+``` I’m currently working on Full Stack and Backend Development projects using  Golang , python frame works which i know Gin  and Django.🤝 I’m looking to collaborate on scalable web applications, AI-powered platforms, and innovative startup projects.🧠 I’m currently learning System Design, AI Engineering, Cloud Technologies, and scalable backend architecture.💬 Ask me about React, Next.js,  REST APIs, JWT Authentication, MongoDB, PostgreSQL, and Full Stack Development.⚡ Fun fact: I enjoy building real-world projects and continuously exploring new technologies to improve my development skills.```
 
 
 ## 🌐 Socials:
