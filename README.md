@@ -1,5 +1,5 @@
 # 💫 About Me:
-``` I’m currently working on Full Stack and Backend Development projects using  Golang , python frame works which i know Gin  and Django.🤝 I’m looking to collaborate on scalable web applications, AI-powered platforms, and innovative startup projects.🧠 I’m currently learning System Design, AI Engineering, Cloud Technologies, and scalable backend architecture.💬 Ask me about React, Next.js,  REST APIs, JWT Authentication, MongoDB, PostgreSQL, and Full Stack Development.⚡ Fun fact: I enjoy building real-world projects and continuously exploring new technologies to improve my development skills.```
+``` I’m currently working on Full Stack and Backend Development projects using  Golang , python frame works which i know Gin  and Django.🤝 I’m looking to collaborate on scalable web applications, AI-powered platforms, and innovative startup projects.🧠 I’m currently learning System Design, AI Engineering, Cloud Technologies, and scalable backend architecture.💬 Ask me about React, REST APIs, JWT Authentication, MongoDB, PostgreSQL,Redis and Full Stack Development.⚡ Fun fact: I enjoy building real-world projects and continuously exploring new technologies to improve my development skills.```
 
 
 ## 🌐 Socials:
